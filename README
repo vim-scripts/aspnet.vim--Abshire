@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=951
+
+Provides ASP.NET syntax highlighting.  This is a modified version of the aspnet.vim file provided my Mark Feeney, to better handle a few things, such as the following:
+
+<img src="<%# DataBind.Eval(Container.DataItem, "ImageFilePath") %>"/>
